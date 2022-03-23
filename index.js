@@ -58,8 +58,8 @@ const arr = [1, 5, 3, -1, 10];
 // pop
 
 
-const str = 'i love coding';
-expected output = 'i evol gnidoc';
+////const str = 'i love coding';
+//expected output = 'i evol gnidoc';
 
 
 // react
